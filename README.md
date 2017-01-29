@@ -1,2 +1,2 @@
-# Angular-js-todo-app
-a todo application with angular js
+# Angular-Ninjas
+Angular-js playlist app
