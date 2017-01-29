@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+  <head>
+    <base href='/'>
+    <title>TheNetNinja Angular Playlist</title>
+    <link href="content/styles.css" rel="stylesheet" type="text/css"/>
+    <script src="content/angular.min.js"> </script>
+    <script src="content/angular-route.min.js"> </script>
+    <script src="content/angular-animate.min.js"> </script>
+    <script src="content/app.js"> </script>
+  </head>
+  <body>
+    <header ng-include="'content/nav.html'"></header>
+    <main ng-view=></main>
+  </body>
+</html>

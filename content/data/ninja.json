@@ -1,0 +1,35 @@
+{
+	"records": [{
+		"name": "Kenshi",
+		"belt": "Black",
+		"rate": 80,
+		"avialable": true,
+		"thumb": "content/data/img/kenshi.png"
+	}, {
+		"name": "Ken",
+		"belt": "Black",
+		"rate": 90,
+		"avialable": true,
+		"thumb": "content/data/img/ken.jpg"
+	}, {
+		"name": "Ryu",
+		"belt": "Blue",
+		"rate": 30,
+		"avialable": true,
+		"thumb": "content/data/img/ryu.jpg"
+	}, {
+		"name": "Guy",
+		"belt": "Blue",
+		"rate": 60,
+		"avialable": true,
+		"thumb": "content/data/img/guy.png"
+
+	}, {
+		"name": "Yoshi",
+		"belt": "Black",
+		"rate": 50,
+		"avialable": true,
+		"thumb": "content/data/img/yoshi.png"
+
+	}]
+}
