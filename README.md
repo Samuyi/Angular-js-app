@@ -1,2 +1,2 @@
-# Angular-Ninjas
-Angular-js playlist app
+#Angular-js playlist 
+a simple angular-js app
